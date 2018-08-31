@@ -21,7 +21,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-By just watching the tutorial video for making is app, it was not too difficult for me learn Swift. However, it gets a little complicated when I was trying to add new features of the app. Therefore, I choose to make the app to stick simple.
+By watching the tutorial video for making this app, it was not too difficult for me learn Swift. However, it gets a little complicated when I was trying to add new features of the app. Therefore, I choose to make the app to stick simple.
 
 ## License
 
