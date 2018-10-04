@@ -10,7 +10,7 @@ Time spent: 2 hours spent in total
 
 The following functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 ## Video Walkthrough 
 
